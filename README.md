@@ -56,7 +56,7 @@ Este repositório oferece uma oportunidade de aprimorarhabilidades em manipulaç
 14. operadores_acumuladores_e_condicional.js: Demonstração de operadores acumuladores e condicionais em consultas.
 15. metodos_update.js: Utilização dos métodos updateOne(), findOneAndUpdate() para atualização de documentos.
 
-###### Imagem 3: Importação através do *prompt* de comando com MongoImport
+###### Imagem 3: Importação dos dados através do *prompt* de comando com MongoImport
 <img src="/img/linha-de-comando-mongoimport.png">
 
 ## 🔍Referências
