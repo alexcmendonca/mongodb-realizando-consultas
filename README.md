@@ -21,24 +21,22 @@ Por fim, abordar métodos de modificação de dados, como updateOne(), findAndMo
 Este repositório oferece uma oportunidade de aprimorarhabilidades em manipulação de dados NoSQL e explorar todo o potencial do MongoDB.
 
 ###### Imagem 2: Pipelines de agregação dos documentos (Crédito da imagem: Alura)
-<img src="/img/pipeline-de-agregacao.jpeg">
+<img src="/img/pipeline-de-agregacao.png">
 
 
 ## 📄Conhecimentos Desenvolvidos
 |Atividades|Realizadas |
 |----------|-----------|
-| A importância de modelar um projeto de banco de dados | Transações ACID. |
-| MongoDB trabalhando com transações ACID. | Estrutura de dados incorporados e referências. |
-| Documentos utilizando a estrutura de dados incorporados. | Documentos utilizando as referências manuais e DBRefs. |
-| Utilizando variáveis para armazenar o objectID e referenciar documentos. | MongoDB no Visual Studio Code. |
-| Relacionamentos em banco de dados: relacionais e não relacionais. | Padrão de operações atômicas. |
-| Criar documentos com relacionamento do tipo: | um para um documentos incorporados |
-| um para muitos documentos incorporados; e | um para muitos referências de documentos. |
-| Conhecer a estrutura de árvore. | Aplicação do padrão de controle de versão de esquema. |
-| Padrões de: | referência pai para criar documentos;
-| referência filho; | array de ancestrais; |
-| caminhos materializados. | Padrão de conjuntos aninhados. |
-| Estuando padrão referência estendida. | |
+| Executar comandos de banco de dados | Conhecer e instalar o MongoDBimport |
+| Realizar a importação de arquivos com o MongoDBimport | Relembrar a utilização do método find |
+| Utilizar os operadores de comparação | Estudar os operadores lógicos e de elemento |
+| Executar consultas com os operadores de matriz e projeção | Utilizar modificadores e outros métodos |
+| Utilizar o método aggregate e os estágios de agregação | Executar consultas com os estágios count e group |
+| Criar consultas com matrizes e filtros | Realizar junção de coleções com o Lookup |
+| Executar consultas utilizando o grupo de operadores aritméticos | Conhecer os operadores de string |
+| Estudar sobre os operadores de datas | Realizar consultas com os operadores acumuladores |
+| Criar novas consultas utilizando os operadores de condicional | Criar consultas com o método updateOne |
+| Conhecer o método findAndModify | Estudar os métodos findOneAndUpdate, findOneAndReplace e findOneAndDelete |
 
 ##  🗂️Organização dos Arquivos
 
